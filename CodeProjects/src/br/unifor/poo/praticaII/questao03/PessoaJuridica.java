@@ -1,0 +1,28 @@
+package br.unifor.poo.praticaII.questao03;
+
+/**
+ * Created by evertonguimaraes on 04/03/17.
+ */
+
+public class PessoaJuridica extends Contribuinte{
+
+    protected String cnpj;
+
+    public PessoaJuridica(String nome, double renda, String cnpj){
+
+        // TODO iniciar variaveis da instancia do objeto.
+
+    }
+
+    @Override
+    public double calcularImpostos() {
+
+        // TODO realizar o calculo do imposto e retornar o valor.
+
+        // TODO modificar o tipo de retorno uma vez que o calculo é realizado.
+
+        return 0;
+    }
+}
+
+
