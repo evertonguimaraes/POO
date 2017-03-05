@@ -32,11 +32,11 @@ public abstract class Contribuinte {
         this.nome = nome;
     }
 
-    public String getRenda() {
+    public double getRenda() {
         return renda;
     }
 
-    public void setRenda(String renda) {
+    public void setRenda(double renda) {
         this.renda = renda;
     }
 
