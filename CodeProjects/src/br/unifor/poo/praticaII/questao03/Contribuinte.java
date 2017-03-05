@@ -7,7 +7,7 @@ package br.unifor.poo.praticaII.questao03;
 public abstract class Contribuinte {
 
     protected String nome;
-    protected String renda;
+    protected double renda;
 
     // Metodo estático que gera uma lista de contribuintes
     // utilizando os subtipos PessoaFisica e PessoaJuridica
