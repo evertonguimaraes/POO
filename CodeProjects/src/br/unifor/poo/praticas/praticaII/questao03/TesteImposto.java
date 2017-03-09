@@ -1,4 +1,4 @@
-package br.unifor.poo.praticaII.questao03;
+package br.unifor.poo.praticas.praticaII.questao03;
 
 /**
  * Created by evertonguimaraes on 04/03/17.
@@ -11,6 +11,14 @@ public class TesteImposto {
     public static void main(String[] args) {
 
         Contribuinte [] lista;
+
+
+        Contribuinte contribuinte = new Contribuinte() {
+            @Override
+            public double calcularImpostos() {
+                return 0;
+            }
+        };
 
         // TODO Obtenha a lista de contribuintes
 

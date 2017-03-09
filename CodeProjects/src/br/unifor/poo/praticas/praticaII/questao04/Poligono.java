@@ -1,4 +1,4 @@
-package br.unifor.poo.praticaII.questao04;
+package br.unifor.poo.praticas.praticaII.questao04;
 
 public abstract class Poligono {
 
