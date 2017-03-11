@@ -1,18 +1,19 @@
-package br.unifor.poo.praticas.praticaII.questao03;
+package br.unifor.poo.praticas.praticaIII.questao03;
 
 /**
  * Created by evertonguimaraes on 04/03/17.
  */
 
-public class PessoaJuridica extends Contribuinte{
+public class PessoaFisica extends Contribuinte {
 
-    protected String cnpj;
+    protected String cpf;
 
-    public PessoaJuridica(String nome, double renda, String cnpj){
+    public PessoaFisica(String nome, double renda, String cpf){
 
         // TODO iniciar variaveis da instancia do objeto.
 
     }
+
 
     @Override
     public double calcularImpostos() {

@@ -1,4 +1,4 @@
-package br.unifor.poo.praticas.praticaII.questao04;
+package br.unifor.poo.praticas.praticaIII.questao04;
 
 public class Retangulo extends Poligono{
 

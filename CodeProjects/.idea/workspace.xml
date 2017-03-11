@@ -2,23 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0da19b5a-705f-4ea2-bc5c-769b403d66a3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/br/unifor/poo/aulas/aula04/Cor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/br/unifor/poo/aulas/aula04/DiaSemanaEnum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/br/unifor/poo/aulas/aula04/MainPlaneta.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/br/unifor/poo/aulas/aula04/PlanetaEnum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/br/unifor/poo/aulas/aula04/TesteEnum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/br/unifor/poo/aulas/aula04/TesteEnumPlaneta.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/br/unifor/poo/praticaII/questao03/Contribuinte.java" afterPath="$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaII/questao03/Contribuinte.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/br/unifor/poo/praticaII/questao03/PessoaFisica.java" afterPath="$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaII/questao03/PessoaFisica.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/br/unifor/poo/praticaII/questao03/PessoaJuridica.java" afterPath="$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaII/questao03/PessoaJuridica.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/br/unifor/poo/praticaII/questao03/TesteImposto.java" afterPath="$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaII/questao03/TesteImposto.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/br/unifor/poo/praticaII/questao04/Container.java" afterPath="$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaII/questao04/Container.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/br/unifor/poo/praticaII/questao04/Poligono.java" afterPath="$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaII/questao04/Poligono.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/br/unifor/poo/praticaII/questao04/Quadrado.java" afterPath="$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaII/questao04/Quadrado.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/br/unifor/poo/praticaII/questao04/Retangulo.java" afterPath="$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaII/questao04/Retangulo.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/br/unifor/poo/praticaII/questao04/TestePoligono.java" afterPath="$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaII/questao04/TestePoligono.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/br/unifor/poo/praticaII/questao04/Triangulo.java" afterPath="$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaII/questao04/Triangulo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaIV/Poligono.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaIV/Ponto.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaIV/Quadrado.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaIV/Retangulo.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaII/questao03/Contribuinte.java" afterPath="$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaIII/questao03/Contribuinte.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaII/questao03/PessoaFisica.java" afterPath="$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaIII/questao03/PessoaFisica.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaII/questao03/PessoaJuridica.java" afterPath="$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaIII/questao03/PessoaJuridica.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaII/questao03/TesteImposto.java" afterPath="$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaIII/questao03/TesteImposto.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaII/questao04/Container.java" afterPath="$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaIII/questao04/Container.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaII/questao04/Poligono.java" afterPath="$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaIII/questao04/Poligono.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaII/questao04/Quadrado.java" afterPath="$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaIII/questao04/Quadrado.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaII/questao04/Retangulo.java" afterPath="$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaIII/questao04/Retangulo.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaII/questao04/TestePoligono.java" afterPath="$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaIII/questao04/TestePoligono.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaII/questao04/Triangulo.java" afterPath="$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaIII/questao04/Triangulo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CodeProjects/br/unifor/poo/aulas/aula04/PlanetaEnum.class" afterPath="$PROJECT_DIR$/out/production/CodeProjects/br/unifor/poo/aulas/aula04/PlanetaEnum.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -32,49 +30,20 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="CodeProjects" />
+  </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TesteEnumPlaneta.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/aulas/aula04/TesteEnumPlaneta.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="73" column="5" lean-forward="false" selection-start-line="73" selection-start-column="5" selection-end-line="73" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MainPlaneta.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/aulas/aula04/MainPlaneta.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="56" lean-forward="true" selection-start-line="13" selection-start-column="56" selection-end-line="13" selection-end-column="56" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PlanetaEnum.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/aulas/aula04/PlanetaEnum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="392">
-              <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-              <folding>
-                <marker date="1489072799000" expanded="false" signature="707:710" ph=" { " />
-                <marker date="1489072799000" expanded="true" signature="736:738" ph=" }" />
-                <marker date="1489072799000" expanded="false" signature="768:771" ph=" { " />
-                <marker date="1489072799000" expanded="true" signature="792:798" ph=" }" />
-                <marker date="1489072799000" expanded="true" signature="835:846" ph=" { " />
-                <marker date="1489072799000" expanded="false" signature="880:886" ph=" }" />
-                <marker date="1489072799000" expanded="false" signature="930:933" ph=" { " />
-                <marker date="1489072799000" expanded="true" signature="987:988" ph=" }" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -114,6 +83,12 @@
         <option value="$PROJECT_DIR$/src/br/unifor/poo/aulas/aula04/MainPlaneta.java" />
         <option value="$PROJECT_DIR$/src/br/unifor/poo/aulas/aula04/TesteEnumPlaneta.java" />
         <option value="$PROJECT_DIR$/src/br/unifor/poo/aulas/aula04/PlanetaEnum.java" />
+        <option value="$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaIV/Ponto.java" />
+        <option value="$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaIV/RetanguloCartesiano.java" />
+        <option value="$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaIV/Poligono.java" />
+        <option value="$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaIV/Quadrado.java" />
+        <option value="$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaIV/Retangulo.java" />
+        <option value="$PROJECT_DIR$/src/br/unifor/poo/Teste.java" />
       </list>
     </option>
   </component>
@@ -124,8 +99,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="147" />
-    <option name="width" value="1280" />
+    <option name="y" value="23" />
+    <option name="width" value="1275" />
     <option name="height" value="873" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -146,8 +121,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -188,14 +162,15 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="js.eslint.eslintPackage" value="" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunManager" selected="Application.MainPlaneta">
     <configuration default="false" name="MainPlaneta" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -625,20 +600,30 @@
       <workItem from="1488894683943" duration="2207000" />
       <workItem from="1489069812469" duration="899000" />
       <workItem from="1489071857535" duration="1349000" />
+      <workItem from="1489159384635" duration="18000" />
+      <workItem from="1489268182340" duration="1753000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8564000" />
+    <option name="totallyTimeSpent" value="10335000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="147" width="1280" height="873" extended-state="0" />
+    <frame x="0" y="23" width="1275" height="873" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -650,8 +635,9 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2921875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26601785" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30857876" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -662,8 +648,8 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -673,7 +659,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="antWorkspaceConfiguration">
@@ -681,152 +669,105 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/aulas/aula04/Cor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/aulas/aula04/PlanetaEnum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="34" lean-forward="true" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
-          <folding>
-            <marker date="1489072799000" expanded="false" signature="707:710" ph=" { " />
-            <marker date="1489072799000" expanded="true" signature="736:738" ph=" }" />
-            <marker date="1489072799000" expanded="false" signature="768:771" ph=" { " />
-            <marker date="1489072799000" expanded="true" signature="792:798" ph=" }" />
-            <marker date="1489072799000" expanded="true" signature="835:846" ph=" { " />
-            <marker date="1489072799000" expanded="false" signature="880:886" ph=" }" />
-            <marker date="1489072799000" expanded="false" signature="930:933" ph=" { " />
-            <marker date="1489072799000" expanded="true" signature="987:988" ph=" }" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/aulas/aula04/TesteEnum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaII/questao04/Poligono.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaII/questao04/Quadrado.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="4" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaII/questao04/Retangulo.java">
+    <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaIII/questao04/Retangulo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaII/questao04/Triangulo.java">
+    <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaIII/questao04/Triangulo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaII/questao04/Container.java">
+    <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaIII/questao04/Container.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaII/questao03/Contribuinte.java">
+    <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaIII/questao03/Contribuinte.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="36" lean-forward="true" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaII/questao03/TesteImposto.java">
+    <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaIII/questao03/TesteImposto.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaII/questao04/Container.java">
+    <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaIII/questao04/Container.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaII/questao03/Contribuinte.java">
+    <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaIII/questao03/Contribuinte.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaII/questao03/Contribuinte.java">
+    <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaIII/questao03/Contribuinte.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaII/questao03/PessoaFisica.java">
+    <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaIII/questao03/PessoaFisica.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaII/questao03/PessoaJuridica.java">
+    <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaIII/questao03/PessoaJuridica.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaII/questao04/Poligono.java">
+    <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaIII/questao04/Poligono.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaII/questao04/Container.java">
+    <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaIII/questao04/Container.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaII/questao04/TestePoligono.java">
+    <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaIII/questao04/TestePoligono.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaII/questao04/Quadrado.java">
+    <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaIII/questao04/Quadrado.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaII/questao04/Retangulo.java">
+    <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaIII/questao04/Retangulo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
@@ -840,63 +781,63 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaII/questao04/Triangulo.java">
+    <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaIII/questao04/Triangulo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaII/questao03/Contribuinte.java">
+    <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaIII/questao03/Contribuinte.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaII/questao03/PessoaFisica.java">
+    <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaIII/questao03/PessoaFisica.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaII/questao03/PessoaJuridica.java">
+    <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaIII/questao03/PessoaJuridica.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaII/questao04/Poligono.java">
+    <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaIII/questao04/Poligono.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaII/questao04/Container.java">
+    <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaIII/questao04/Container.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaII/questao04/TestePoligono.java">
+    <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaIII/questao04/TestePoligono.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaII/questao04/Quadrado.java">
+    <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaIII/questao04/Quadrado.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaII/questao04/Retangulo.java">
+    <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaIII/questao04/Retangulo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
@@ -910,7 +851,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaII/questao04/Triangulo.java">
+    <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaIII/questao04/Triangulo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
@@ -918,14 +859,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/package-info.java" />
-    <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaII/questao03/PessoaFisica.java">
+    <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaIII/questao03/PessoaFisica.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaII/questao03/PessoaJuridica.java">
+    <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaIII/questao03/PessoaJuridica.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
@@ -940,28 +881,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaII/questao04/TestePoligono.java">
+    <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaIII/questao04/TestePoligono.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="44" lean-forward="false" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaII/questao04/Container.java">
+    <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaIII/questao04/Container.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaII/questao03/Contribuinte.java">
+    <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaIII/questao03/Contribuinte.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="36" lean-forward="false" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaII/questao03/TesteImposto.java">
+    <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaIII/questao03/TesteImposto.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
@@ -972,32 +913,31 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaII/questao04/Poligono.java">
+    <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaIII/questao04/Poligono.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaII/questao04/Quadrado.java">
+    <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaIII/questao04/Quadrado.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="4" lean-forward="false" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaII/questao04/Retangulo.java">
+    <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaIII/questao04/Retangulo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="1" lean-forward="false" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaII/questao04/Triangulo.java">
+    <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaIII/questao04/Triangulo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
@@ -1008,7 +948,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="12" lean-forward="false" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1016,21 +955,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/aulas/aula04/MainPlaneta.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
-          <caret line="13" column="56" lean-forward="true" selection-start-line="13" selection-start-column="56" selection-end-line="13" selection-end-column="56" />
+          <caret line="13" column="56" lean-forward="false" selection-start-line="13" selection-start-column="56" selection-end-line="13" selection-end-column="56" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/aulas/aula04/TesteEnumPlaneta.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
+        <state relative-caret-position="1095">
           <caret line="73" column="5" lean-forward="false" selection-start-line="73" selection-start-column="5" selection-end-line="73" selection-end-column="5" />
           <folding />
         </state>
@@ -1039,17 +977,60 @@
     <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/aulas/aula04/PlanetaEnum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="392">
-          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaIV/Ponto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="44" lean-forward="true" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="44" />
           <folding>
-            <marker date="1489072799000" expanded="false" signature="707:710" ph=" { " />
-            <marker date="1489072799000" expanded="true" signature="736:738" ph=" }" />
-            <marker date="1489072799000" expanded="false" signature="768:771" ph=" { " />
-            <marker date="1489072799000" expanded="true" signature="792:798" ph=" }" />
-            <marker date="1489072799000" expanded="true" signature="835:846" ph=" { " />
-            <marker date="1489072799000" expanded="false" signature="880:886" ph=" }" />
-            <marker date="1489072799000" expanded="false" signature="930:933" ph=" { " />
-            <marker date="1489072799000" expanded="true" signature="987:988" ph=" }" />
+            <element signature="e#202#203#0" expanded="true" />
+            <element signature="e#226#227#0" expanded="true" />
+            <element signature="e#260#261#0" expanded="true" />
+            <element signature="e#286#287#0" expanded="true" />
+            <element signature="e#314#315#0" expanded="true" />
+            <element signature="e#338#339#0" expanded="true" />
+            <element signature="e#372#373#0" expanded="true" />
+            <element signature="e#398#399#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaIV/Retangulo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaIV/Quadrado.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="33" lean-forward="false" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+          <folding>
+            <element signature="e#208#209#0" expanded="false" />
+            <element signature="e#261#262#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaIV/Poligono.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/Teste.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="6" lean-forward="false" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+          <folding />
         </state>
       </provider>
     </entry>
