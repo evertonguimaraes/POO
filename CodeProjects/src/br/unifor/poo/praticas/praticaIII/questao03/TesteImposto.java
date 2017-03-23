@@ -28,14 +28,6 @@ public class TesteImposto {
 
         // TODO Implementação do comando FOR
 
-        // INICIO
-
-        // o printf a seguir deve exibir o nome e o
-        // imposto que o contribuinte irá pagar
-
-        //System.out.printf("%-20s     %9.2f\n",   <VARIAVEL> );
-
-        // FIM
     }
 }
 
