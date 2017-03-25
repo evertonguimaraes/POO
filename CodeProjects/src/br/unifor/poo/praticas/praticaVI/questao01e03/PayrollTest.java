@@ -80,7 +80,7 @@ public class PayrollTest {
             if (currentEmployee instanceof  BasePlusComissionEmployee){
                 BasePlusComissionEmployee employee  = (BasePlusComissionEmployee) currentEmployee;
                 employee.setBaseSalary(1.40 * employee.getBaseSalary());
-                System.out.printf("New base salary with 40% increase is: $%, .2f %n", employee.getBaseSalary());
+                System.out.printf("New base salary with increase is: $%, .2f %n", employee.getBaseSalary());
             }
 
             System.out.printf("earned $%, .2f %n %n", currentEmployee.earnings());

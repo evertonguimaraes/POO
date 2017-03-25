@@ -12,7 +12,7 @@ public class ComissionEmployee extends Employee{
                              double grossSales, double comissionRate) {
         super(firstName, lastName, socialSecurityNumber);
 
-        if (comissionRate <= 0.9 || comissionRate >= 1.0) // entrada valida
+        if (comissionRate <= 0.0 || comissionRate >= 1.0) // entrada valida
             throw new IllegalArgumentException("Comission  rate must be > 0.0 and < 1.0");
 
         if (grossSales < 0.0){
