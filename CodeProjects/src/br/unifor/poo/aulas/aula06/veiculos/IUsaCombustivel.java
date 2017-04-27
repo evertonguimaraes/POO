@@ -1,0 +1,11 @@
+package br.unifor.poo.aulas.aula06.veiculos;
+
+/**
+ * Created by evertonguimaraes on 18/04/17.
+ */
+
+
+public interface IUsaCombustivel {
+
+    double abastecer(TipoCombustivel tipoCombustivel, double quantidade);
+}
