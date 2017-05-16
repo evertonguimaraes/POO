@@ -9,7 +9,6 @@ import java.util.List;
  * Created by evertonguimaraes on 02/05/17.
  */
 
-
 public class CartasBaralho {
 
     private List<Carta> listaCartas;
@@ -26,9 +25,7 @@ public class CartasBaralho {
 
         // TODO IMPLEMENTAR A CRIACAO DO BARALHO.
 
-
         // TODO ARMAZENAR O ARRAY EM UM ARRAYLIST
-
 
         // TODO EMBARALHAR AS CARTAS
 

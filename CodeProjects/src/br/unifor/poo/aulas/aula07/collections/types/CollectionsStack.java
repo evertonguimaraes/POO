@@ -4,9 +4,6 @@ import java.util.EmptyStackException;
 import java.util.Queue;
 import java.util.Stack;
 
-/**
- * Created by evertonguimaraes on 02/05/17.
- */
 public class CollectionsStack {
 
     public static void main(String[] args) {
