@@ -2,32 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0da19b5a-705f-4ea2-bc5c-769b403d66a3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/br/unifor/poo/aulas/aula08/exceptions/creating/NovaException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/br/unifor/poo/aulas/aula08/exceptions/exemplos/Exemplo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/br/unifor/poo/aulas/aula08/exceptions/exemplos/Exemplo2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/br/unifor/poo/aulas/aula08/exceptions/exemplos/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/br/unifor/poo/aulas/aula08/exceptions/exemplos/Teste.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/br/unifor/poo/aulas/aula08/exceptions/exemplos/Teste2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/br/unifor/poo/aulas/aula08/exceptions/exemplos/Teste3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/br/unifor/poo/aulas/aula08/exceptions/exemplos/User.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/br/unifor/poo/aulas/aula08/exceptions/mvc/Controle.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/br/unifor/poo/aulas/aula08/exceptions/mvc/DAO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/br/unifor/poo/aulas/aula08/exceptions/mvc/View.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaVIII/Contribuinte.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaVIII/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaVIII/PessoaFisica.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaVIII/PessoaJuridica.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CodeProjects/br/unifor/poo/aulas/aula06/comparable/Comparable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CodeProjects/br/unifor/poo/aulas/aula06/comparable/Empregado.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CodeProjects/br/unifor/poo/aulas/aula06/comparable/Main.class" afterPath="$PROJECT_DIR$/out/production/CodeProjects/br/unifor/poo/aulas/aula06/comparable/Main.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CodeProjects/br/unifor/poo/aulas/aula06/fila/Lista.class" afterPath="$PROJECT_DIR$/out/production/CodeProjects/br/unifor/poo/aulas/aula06/fila/Lista.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CodeProjects/br/unifor/poo/aulas/aula06/veiculos/Aviao.class" afterPath="$PROJECT_DIR$/out/production/CodeProjects/br/unifor/poo/aulas/aula06/veiculos/Aviao.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CodeProjects/br/unifor/poo/aulas/aula06/veiculos/TipoCombustivel.class" afterPath="$PROJECT_DIR$/out/production/CodeProjects/br/unifor/poo/aulas/aula06/veiculos/TipoCombustivel.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/br/unifor/poo/aulas/aula06/comparable/Main.java" afterPath="$PROJECT_DIR$/src/br/unifor/poo/aulas/aula06/comparable/Main.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/br/unifor/poo/aulas/aula07/collections/baralho/CartasBaralho.java" afterPath="$PROJECT_DIR$/src/br/unifor/poo/aulas/aula07/collections/baralho/CartasBaralho.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/br/unifor/poo/aulas/aula07/collections/types/CollectionsSet.java" afterPath="$PROJECT_DIR$/src/br/unifor/poo/aulas/aula07/collections/types/CollectionsSet.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/br/unifor/poo/aulas/aula07/collections/types/CollectionsStack.java" afterPath="$PROJECT_DIR$/src/br/unifor/poo/aulas/aula07/collections/types/CollectionsStack.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaVIII/Contribuinte.java" afterPath="$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaIX/Contribuinte.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaVIII/Main.java" afterPath="$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaIX/Main.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaVIII/PessoaFisica.java" afterPath="$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaIX/PessoaFisica.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaVIII/PessoaJuridica.java" afterPath="$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaIX/PessoaJuridica.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -69,7 +47,7 @@
         </entry>
       </file>
       <file leaf-file-name="Contribuinte.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaVIII/Contribuinte.java">
+        <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaIX/Contribuinte.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="454">
               <caret line="46" column="42" lean-forward="false" selection-start-line="46" selection-start-column="27" selection-end-line="46" selection-end-column="42" />
@@ -79,7 +57,7 @@
         </entry>
       </file>
       <file leaf-file-name="PessoaFisica.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaVIII/PessoaFisica.java">
+        <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaIX/PessoaFisica.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
               <caret line="22" column="36" lean-forward="false" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
@@ -111,7 +89,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/br/unifor/poo/aulas/aula05/Professor.java" />
         <option value="$PROJECT_DIR$/src/br/unifor/poo/aulas/aula05/Turma.java" />
         <option value="$PROJECT_DIR$/src/br/unifor/poo/aulas/aula06/Comparable.java" />
         <option value="$PROJECT_DIR$/src/br/unifor/poo/aulas/aula06/Empregado.java" />
@@ -162,6 +139,7 @@
         <option value="$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaVIII/PessoaJuridica.java" />
         <option value="$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaVIII/Main.java" />
         <option value="$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaVIII/PessoaFisica.java" />
+        <option value="$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaIX/PessoaFisica.java" />
       </list>
     </option>
   </component>
@@ -173,9 +151,9 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="1" />
-    <option name="y" value="162" />
+    <option name="y" value="115" />
     <option name="width" value="1280" />
-    <option name="height" value="724" />
+    <option name="height" value="904" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -268,40 +246,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="praticaVIII" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CodeProjects" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CodeProjects" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="br" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="unifor" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="poo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="praticas" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="praticaVI" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -333,6 +277,40 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="praticas" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CodeProjects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CodeProjects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="br" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="unifor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="poo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="praticas" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="praticaIX" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1038,12 +1016,12 @@
       <workItem from="1494875512475" duration="212000" />
       <workItem from="1494875815777" duration="785000" />
       <workItem from="1494940608911" duration="1285000" />
-      <workItem from="1494945853959" duration="269000" />
+      <workItem from="1494945853959" duration="382000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35946000" />
+    <option name="totallyTimeSpent" value="36059000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1055,8 +1033,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1" y="162" width="1280" height="724" extended-state="0" />
-    <editor active="true" />
+    <frame x="1" y="115" width="1280" height="904" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1072,7 +1049,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28432956" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28432956" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30857876" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1434,20 +1411,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaVIII/PessoaJuridica.java">
+    <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaIX/PessoaJuridica.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" column="5" lean-forward="false" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
           <folding>
-            <element signature="e#413#414#0" expanded="true" />
-            <element signature="e#504#505#0" expanded="true" />
-            <element signature="e#557#558#0" expanded="true" />
-            <element signature="e#596#597#0" expanded="true" />
+            <element signature="e#411#412#0" expanded="false" />
+            <element signature="e#502#503#0" expanded="false" />
+            <element signature="e#555#556#0" expanded="false" />
+            <element signature="e#594#595#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaVIII/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaIX/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
@@ -1466,7 +1443,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaVIII/Contribuinte.java">
+    <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaIX/Contribuinte.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="454">
           <caret line="46" column="42" lean-forward="false" selection-start-line="46" selection-start-column="27" selection-end-line="46" selection-end-column="42" />
@@ -1474,7 +1451,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaVIII/PessoaFisica.java">
+    <entry file="file://$PROJECT_DIR$/src/br/unifor/poo/praticas/praticaIX/PessoaFisica.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="22" column="36" lean-forward="false" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
